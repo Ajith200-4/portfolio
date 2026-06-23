@@ -1068,7 +1068,7 @@ a:hover {
     display: flex;
     flex-wrap: wrap;
     gap: 8px;
-    margin-bottom: 30px;
+    margin-bottom: 0;
     margin-top: auto;
 }
 
